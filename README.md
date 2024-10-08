@@ -29,11 +29,11 @@ OK, here we go.
 
 ## Introduction and Goals
 
-The goal of my project is to answer the question, What is...?
+The goal of my project is to answer the question: What are the evolutionary relationships among populations of *Aedes albopictus* mosquitoes in their native range of East and Southeast Asia? Ultimately this will help answer the longer-term goal of the project I am contributing to, which is to determine the genetic basis of diapause (egg dormancy) in this species.
 
-The methods I will use to do this are...
+The methods I will use to do this are running phylogenetic inference programs on the genetic data that my lab has obtained from specimens from many populations. I will compare the resulting phylogenies with population structure diagrams that I am in the progress of creating outside of class. These two approaches will complement each other to give a fuller picture of the history of these populations, including both their diverging evolutionary histories and also any history of gene flow between populations.
 
-The data I will use are (my own data/ data publicly available at YYY/ simulations)
+The data I will use are SNP chip data from my lab. My lab performed extractions on mosquitoes that were sent to us from entomologists around the globe. The resulting DNA was sequenced on SNP chips such that we obtained ~100,000 SNPs per specimen spaced out roughly evenly across the genome (with about 10 kb gaps between successive SNPs). We have about 10 mosquitoes per population, from ~20 populations across the native range, as well as from ~40 introduced populations globally. 
 
 ## Methods
 
